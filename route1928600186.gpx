@@ -7,8 +7,10 @@
   <trkseg>
    <trkpt lat="25.7366633443" lon="-8.1583786011"/>
     <time>2018-01-28T07:46:58Z</time>
+    </trkpt>
    <trkpt lat="25.7380356994" lon="-8.1577026844"/>
     <time>2018-01-28T07:47:58Z</time>
+    </trkpt>
   </trkseg>
  </trk>
 </gpx>
