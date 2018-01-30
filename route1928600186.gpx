@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>
+   Mauri test1
+  </name>
+  <trkseg>
+   <trkpt lat="25.7366633443" lon="-8.1583786011"/>
+   <trkpt lat="25.7380356994" lon="-8.1577026844"/>
+  </trkseg>
+ </trk>
+</gpx>
